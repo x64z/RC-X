@@ -1,0 +1,20 @@
+<Settings>
+  <Detail>
+    <Path>อัพเดทอะไรก็ได้โตแล้ว</Path>
+    <UpdateDate>16.09.2567</UpdateDate>
+    <UpdateLink>https://localhost/</UpdateLink>
+  </Detail>
+  <Detail>
+    <Path>อัพเดทอะไรก็ได้โตแล้ว2</Path>
+    <UpdateDate>16.09.2567</UpdateDate>
+    <UpdateLink>https://localhost/</UpdateLink>
+  </Detail>
+  <Contact>
+    <Discord>https://discord.gg/t3FWaYJG</Discord>
+	<DiscordLogo>discord.png</DiscordLogo>
+    <YouTube>https://www.youtube.com/@x64zDev</YouTube>
+    <YouTubeLogo>youtube.png</YouTubeLogo>
+	<Tiktok>https://www.tiktok.com/@x64zdev</Tiktok>
+    <TiktokLogo>tiktok.png</TiktokLogo>
+  </Contact>
+</Settings>
